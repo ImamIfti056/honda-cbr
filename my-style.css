@@ -1,0 +1,20 @@
+.bg-header{
+    background-color: #264653;
+}
+
+.color-2{
+  color: #E76F51;  
+}
+
+.bg-2{
+    background-color:#E76F51;
+}
+
+.f-bike-1, .f-bike-3{
+    filter: grayscale(1);
+}
+
+.bs-img:hover{
+  filter: grayscale(1);
+  transform: scale(1.02);
+}
